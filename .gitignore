@@ -1,0 +1,5 @@
+bazel-*
+
+# Not sure why bazel puts *.pyc files in the tree...
+# https://vistarmedia.atlassian.net/browse/VBID-9846
+*.pyc
